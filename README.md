@@ -10,7 +10,7 @@
 
 [Ejercicios basicos de python](https://github.com/JuanManuelGT21/MineriaDatos002/blob/main/Ejercicios%20b%C3%A1sicos%20de%20python.ipynb)
 
-[Practica de limpieza de datos](http://localhost:8888/notebooks/Downloads/Ej_Limpieza_2%20(1).ipynb)
+[Practica de limpieza de datos](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Ej_Limpieza_2.ipynb)
 
-[Primera entrega PIA](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Avance1_PIA_2%20(2).ipynb)
+[Primera entrega PIA](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Avance1_PIA_2.ipynb)
 
