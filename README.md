@@ -12,3 +12,5 @@
 
 [Practica de limpieza de datos](http://localhost:8888/notebooks/Downloads/Ej_Limpieza_2%20(1).ipynb)
 
+[Primera entrega PIA](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Avance1_PIA_2%20(2).ipynb)
+
