@@ -21,3 +21,5 @@
 [Mini examen](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Calificaci%C3%B3n_Regresion-Lineal_Equipo-2.pdf)
 
 [Mapa Mental 2](https://github.com/JuanManuelGT21/MineriaDatos002/blob/main/MapaMaetal_2_1725005.pdf)
+
+[Practica de visualizacion](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Visualizacion_2.ipynb)
