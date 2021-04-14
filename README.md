@@ -23,3 +23,5 @@
 [Mapa Mental 2](https://github.com/JuanManuelGT21/MineriaDatos002/blob/main/MapaMaetal_2_1725005.pdf)
 
 [Practica de visualizacion](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Visualizacion_2.ipynb)
+
+[Segundo avance del proyecto final]
