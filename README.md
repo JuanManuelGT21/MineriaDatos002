@@ -24,4 +24,5 @@
 
 [Practica de visualizacion](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Visualizacion_2.ipynb)
 
-[Segundo avance del proyecto final]
+[Segundo avance del proyecto final](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/AvancePIA_II_002_2.ipynb)
+
