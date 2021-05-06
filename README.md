@@ -31,3 +31,5 @@
 ##Etapa 3
 
 [Ultima Actualización Proyecto Final](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/pia%20(2).ipynb)
+
+[Proyecto Final Poster](https://github.com/JuanManuelGT21/MineriaDatos002/blob/main/Poster%20Proyecto%20Final.pdf)
