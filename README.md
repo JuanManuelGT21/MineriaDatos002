@@ -32,4 +32,4 @@
 
 [Ultima Actualización Proyecto Final](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/pia%20(2).ipynb)
 
-[Proyecto Final Poster](https://github.com/JuanManuelGT21/MineriaDatos002/blob/main/Poster%20Proyecto%20Final.pdf)
+[Proyecto Final Poster](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Asegurate%20de%20usar%20contrincantes%20apropiados%2C%20ya%20que%20estas%20peleas%20no%20son%20faciles...%20Pokemon%20GO!%20(10).pdf)
